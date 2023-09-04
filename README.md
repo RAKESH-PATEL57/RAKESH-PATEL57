@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/rakesh-patel-567449242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakesh-patel-567449242" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rakesh246808" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rakesh246808" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rakesh patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rakesh patel" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rakesh246808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rakesh patel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
