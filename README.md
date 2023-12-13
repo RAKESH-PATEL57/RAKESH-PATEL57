@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshpatel57&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshpatel57" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://rakesh-patel57.github.io/My-Portfolio/](https://rakesh-patel57.github.io/My-Portfolio/)
+- 👨‍💻 My Portfolio [https://rakesh-patel57.github.io/My-Portfolio/](https://rakesh-patel57.github.io/My-Portfolio/)
 
 - 📫 How to reach me **rakesh246808@gmail.com**
 
