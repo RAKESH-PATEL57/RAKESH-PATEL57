@@ -20,8 +20,14 @@
 <tr><td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RAKESH-PATEL57&theme=&theme=blue-green" alt="RAKESH-PATEL57" /></td></tr>
 </table>
 
-<!--# 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=RAKESH-PATEL57&theme=midnight-purple&hide_border=true&center=true&include_all_commits=false&count_private=false)<br/> -->
+## Github Stats: 
+<table>
+  <tr>
+<td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RAKESH-PATEL57&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="RAKESH-PATEL57" /></td>
+
+<td><img align="left" src="https://github-readme-stats.vercel.app/api?username=RAKESH-PATEL57&show_icons=true&locale=en&theme=radical" alt="RAKESH-PATEL57"/></td>
+</tr>
+</table>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RAKESH-PATEL57&theme=radical&no-frame=true&no-bg=false&center=true&margin-w=4)
