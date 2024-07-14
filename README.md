@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/rakesh-patel-567449242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakesh-patel-567449242" height="30" width="40" /></a>
  <a
-    href="https://www.leetcode.com/https://leetcode.com/rakesh246808/"
+    href="https://leetcode.com/u/rakesh246808/"
     target="blank"
     ><img
       align="center"
