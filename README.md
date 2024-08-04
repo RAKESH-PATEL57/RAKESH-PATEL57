@@ -113,3 +113,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RAKESH-PATEL57&theme=radical&no-frame=true&no-bg=false&center=true&margin-w=4)
+![snake gif](https://github.com/RAKESH-PATEL57/RAKESH-PATEL57/blob/output/github-contribution-grid-snake-dark.svg)
+
