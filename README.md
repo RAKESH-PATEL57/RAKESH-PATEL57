@@ -35,7 +35,7 @@
     />
   </a>
 <table>
-<tr><td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RAKESH-PATEL57&theme=&theme=blue-green" alt="RAKESH-PATEL57" /></td></tr>
+<!-- <tr><td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RAKESH-PATEL57&theme=&theme=blue-green" alt="RAKESH-PATEL57" /></td></tr> -->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
